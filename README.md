@@ -20,7 +20,6 @@ Construo produtos SaaS de ponta a ponta: da modelagem do banco com RLS multi-ten
 | **[Voice Report](https://github.com/daniellpsadm-boop/voicereport-laudos-ia)** · [ver ao vivo](https://www.laudopratico.com.br) · [repo original](https://github.com/voicereporttech/voicereport) _(privado)_ | Laudos técnicos de vistoria por voz: o engenheiro grava áudio, fotos e checklist ABNT em campo (offline-first) e a IA transcreve e redige o laudo em DOCX/PDF. Multi-tenant, planos Stripe, web + Android + desktop. | Next.js · TypeScript · Supabase · n8n · OpenAI Whisper/GPT-4o · Stripe · Electron |
 | **[Lopes Web Studio](https://github.com/daniellpsadm-boop/lopes-web-studio)** · [ver ao vivo](https://www.lopeswebstudio.com.br) | Site institucional do meu estúdio, com i18n, PWA, notificações push e rastreamento de visitas via Supabase Edge Function. | HTML · CSS · JavaScript · Supabase |
 | **[SalonBook — Landing](https://github.com/daniellpsadm-boop/salonbook-lp)** · [ver ao vivo](https://www.salonbook.com.br) | Landing page de conversão do SalonBook, com deploy independente do app. | React · Vite · Tailwind · Framer Motion |
-| **Lugo** · [ver ao vivo](https://lugogestaodeimoveis.com.br) · _código privado_ | Plataforma de gestão imobiliária: imóveis, inquilinos e cobranças recorrentes. | Next.js · Supabase · Asaas · Jest |
 
 ---
 
